@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Alexander Ehlers - Great mission.mp3-2d24ccd22155b0d16138cd9211d7bbe8.mp3str"
+
+[deps]
+
+source_file="res://Sounds/Alexander Ehlers - Great mission.mp3"
+dest_files=[ "res://.import/Alexander Ehlers - Great mission.mp3-2d24ccd22155b0d16138cd9211d7bbe8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
